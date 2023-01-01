@@ -1,6 +1,8 @@
 # RCZ-ENCODEGUI
 make your custom encode with more than 1.6005911e+38 possible combinations, this use [RCZ Encrypt System](https://github.com/Halqq/RCZEncryptationKT) but configurable template, very easy to use
 
+this use [ALPHABYTE](https://github.com/Halqq/Alphabyte-java) to encode strings
+
 UI example:
 ![image](https://user-images.githubusercontent.com/72313113/210157872-8d096e67-8a2e-4c66-adbc-ffef15dfbb49.png)
 
